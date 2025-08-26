@@ -2,6 +2,10 @@
  "engines": {
   "node": "v22.13.1"
  },
+ "dependencies": { 
+  "cloudinary": "^1.41.3",
+  "multer-storage-cloudinary": "^4.0.0"
+ },
   "name": "mpro1",
   "version": "1.0.0",
   "main": "index.js",
